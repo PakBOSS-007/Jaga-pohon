@@ -1,0 +1,7 @@
+{
+  "name": "Jagapohonapps",
+  "description": "An application to facilitate tree data collection, visualize their distribution on a map, and estimate their carbon sequestration. It uses AI to identify tree species and extract data from photos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
